@@ -1,2 +1,5 @@
 # Basics-of-Numpy
-NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object sophisticated (broadcasting) functions tools for integrating C/C++ and Fortran code useful linear algebra, Fourier transform, and random number capabilities
+NumPy is the fundamental package for scientific computing with Python. It contains among other things:  
+1. A powerful N-dimensional array object 
+2. Sophisticated (broadcasting) functions 
+3. Useful linear algebra, Fourier transform, and random number capabilities
